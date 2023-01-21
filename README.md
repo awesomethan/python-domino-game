@@ -1,0 +1,1 @@
+This is a domino game I created using Python (v3.4.1) for my ICS3U assignment. I forgot why but I was weirdly motivated to try to make my final product more visually pleasing, so I decided to share it here. In retrospect, it is very mediocre, but hey...it was a memorable project and I was quite proud of myself back then, so please don't judge :')
